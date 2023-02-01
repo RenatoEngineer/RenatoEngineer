@@ -1,6 +1,6 @@
-.:: Olá! Eu sou o Renato Sousa! ::.
+.:: Olá! Eu sou o Renato Gomes de Sousa! ::.
 
-- 🔭 Hoje Trabalho com Automação Industrial
+- 🔭 Atualmente Trabalho com Automação Industrial
 - 🌱 Estudando Programação C.
 - 🤔 Procurando Ajuda com Microcontroladores.
 
