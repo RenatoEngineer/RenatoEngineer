@@ -19,7 +19,9 @@
 </div>
   
 </div>
-  
+
+  ##
+  ![snake gif](https://github.com/RenatoEngineer/RenatoEngineer/blob/output/github-contribution-grid-snake.svg)
   ##
  
 <div>
