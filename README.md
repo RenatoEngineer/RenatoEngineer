@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato+Sousa;I'm+41+years+old;I'm+from+Brazil;I+Graduated+Mechatronics+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato+Sousa;I'm+from+Brazil;I+Graduated+Mechatronics+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenatoEngineer&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=c9d1d9&bg_color=0d1117" alt="Renato Sousa github stats" /> 
@@ -19,15 +19,17 @@
 </div>
   
 </div>
-
-  ##
-  ![snake gif](https://github.com/RenatoEngineer/RenatoEngineer/blob/output/github-contribution-grid-snake.svg)
-  ##
  
 <div>
 <a href = "mailto:renattoengineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renatoengineer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/renatoengineer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RenatoEngineer}/count.svg" /></p> 
+<br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
